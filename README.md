@@ -1,1 +1,1 @@
-This is a repository containing documentation for a school project.
+<h1>This is a repository containing documentation for a school project.
